@@ -1,10 +1,10 @@
 ### MeConomy:
 
-1.16.5-1.20.x Paper
+1.16.x-1.20.x Paper
 
 ### MeMail:
 
-1.16.5-1.20.x Paper
+1.16.x-1.20.x Paper
 
 ### MobDropChanger:
 
@@ -12,4 +12,4 @@
 
 ### SilkSpawners:
 
-1.16.5-1.20.x Paper
+1.16.x-1.20.x Paper
